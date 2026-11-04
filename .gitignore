@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Локальные сессии/логи
+.zcode/
+*.log
+
+# Рабочие данные пайплайна: кэши, датасеты, чекпойнты — не для репозитория
+work/tilecache/
+work/worldcover/
+work/wcmask/
+work/wcmask_pos/
+work/geo/
+work/preview/
+work/infer/
+work/fp_check/
+work/platform/
+work/marks/
+work/runs/
+work/manifests/
